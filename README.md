@@ -10,7 +10,17 @@
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose the AWS SES support in Docker issue because it perfectly aligns with my interest in backend infrastructure and cloud services. I’ve been looking for a task that allows me to get hands-on experience with production-level Docker configurations and Django integration—skills that are directly applicable to my future work in backend engineering.
+
+I am interested in this because:
+
+The issue is well-bounded and clearly defined: adding dependencies, parsing environment variables, and configuring the email backend.
+
+It provides a structured opportunity to learn how Weblate handles external service integrations, which is a great way to deepen my understanding of the codebase.
+
+The maintainer has explicitly identified the relevant files (requirements.txt and settings_docker.py), which gives me a clear starting point for my development.
+
+I want to improve my ability to contribute to infrastructure-related tasks that improve a project's deployment flexibility for other developers.
 
 ---
 
